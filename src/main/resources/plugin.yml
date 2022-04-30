@@ -1,0 +1,9 @@
+name: FingerGuessing
+version: '${project.version}'
+main: me.wuxie.fingerguessing.FingerGuessing
+api-version: 1.13
+authors: [ wuxie ]
+depend:
+  - Vault
+commands:
+  fg:
